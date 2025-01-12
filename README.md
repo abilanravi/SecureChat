@@ -36,22 +36,22 @@ SecureChat is a command-line chat application that ensures secure communication 
 
 ## Getting Started
 ### Prerequisites:
-- Python 3.7 or later
+- Python 3 or later
 - Required libraries:
   ```
   pip install cryptography bcrypt
   ```
 
 ### Running the Application:
-1. Save the script as `securechat.py`.
-2. Run the application:
+1. Save the file as `securechat.py`.
+2. Run the application in your terminal:
    ```
    python securechat.py
    ```
 
 ## Future Improvements
-- Implement a graphical user interface (GUI) for better usability.
-- Add support for group messaging.
+- I would like to implement a graphical user interface (GUI) for better usability.
+- Potentially add support for group messaging (currently 1 on 1)
 - Enhance security by introducing additional authentication mechanisms.
 
 ---
